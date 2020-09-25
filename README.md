@@ -27,7 +27,7 @@
 
 <h3>What do I do</h3>
 <img align="right" alt="Steven's top language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Chang1114&layout=compact&show_icons=true">
-<img align="right" alt="Steven's github stat" width="50%" src="https://github-readme-stats.vercel.app/api?username=Steven-Chang1114&count_private=true">
+<img align="right" alt="Steven's github stat" width="50%" src="https://github-readme-stats.vercel.app/api?username=Steven-Chang1114&show_icons=true&count_private=true">
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
