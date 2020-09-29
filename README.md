@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="Loading" width="35%" src="https://media.giphy.com/media/3o7abJxL1w984uW2AM/giphy.gif">
+<img align="right" alt="Loading" width="33%" src="https://media.giphy.com/media/3o7abJxL1w984uW2AM/giphy.gif">
 
 <h3>Who am I</h3>
 
